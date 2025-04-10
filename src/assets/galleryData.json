@@ -1,0 +1,30 @@
+[
+  {
+    "src": "/VirtualGallery/newUNCR.jpg",
+    "alt": "Abstract blue painting",
+    "date": "2024-03-01",
+    "tag1": "Painting",
+    "tag2": "UNCR"
+  },
+  {
+    "src": "/VirtualGallery/marathon.jpg",
+    "alt": "Abstract blue painting",
+    "date": "2022-03-01",
+    "tag1": "Sketch",
+    "tag2": "Marathon"
+  },
+  {
+    "src": "/VirtualGallery/frontface.jpg",
+    "alt": "Abstract blue painting",
+    "date": "2025-03-01",
+    "tag1": "Painting",
+    "tag2": "Personal"
+  },
+  {
+    "src": "/VirtualGallery/illuminator.jpg",
+    "alt": "Abstract blue painting",
+    "date": "2025-03-01",
+    "tag1": "Sketch",
+    "tag2": "Personal"
+  }
+]
